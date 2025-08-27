@@ -102,3 +102,12 @@ pdf: https://liujunming.top/pdf/syscall/Linux%20System%20Call%20Table%20for%20x8
 website: https://hackeradam.com/x86-64-linux-syscalls/
 
 в ассемблер после вызова функции или после прочтение и тд. значение по умолчание записываеться в rax.
+
+в GDB чтобы узнать значение переменной в Assembler:
+```
+# Вывести как строку
+print (char*)&(переменная)
+
+# Вывести как целое число (если переменная числовая)
+print (int)&(переменная)
+```
