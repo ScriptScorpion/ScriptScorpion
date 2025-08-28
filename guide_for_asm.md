@@ -111,3 +111,4 @@ print (char*)&(переменная)
 # Вывести как целое число (если переменная числовая)
 print (int)&(переменная)
 ```
+https://en.wikipedia.org/wiki/Bitwise_operations_in_C
