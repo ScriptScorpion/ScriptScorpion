@@ -7,5 +7,5 @@
 ### Favorite programming languages:
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B)
-![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&color=gray&logoColor=727ae)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&color=gray)
 ![Static Badge](https://img.shields.io/badge/Assembly_x86--64-0071C5?style=for-the-badge&logo=intel&logoColor=blue&color=black)
