@@ -13,6 +13,6 @@
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 
 ## Best compiler for C/C++
-**gcc/g++**
+![Image](GNU_Compiler_Collection_logo.png)
 ## Best compiler for Assembly language
-**nasm**
+![Image](Netwide_Assembler.png)
