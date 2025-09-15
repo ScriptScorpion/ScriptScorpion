@@ -101,3 +101,5 @@ header файлы в C++ нужны для того чтобы писать фу
 различие между `private` и `protected` в том что `private` - может использоваться только для этого класса или структуры(если попытаться обратитьтся к полям из private после наследования будет ошибка), `protected` - может также использоваться в других классах или структурах с помошью наследования.
 
 https://en.wikipedia.org/wiki/Bitwise_operations_in_C
+
+condition part в C++(for(initialization_part; condition_part; do_with_initialized_variable_part)) работает также как и в if ну типо можно сделать && и || и это будет работать
