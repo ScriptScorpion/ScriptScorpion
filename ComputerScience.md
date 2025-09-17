@@ -29,3 +29,17 @@ TABLE FOR `^`(**XOR**):
 1 | 0 = 1
 1 | 1 = 0
 ```
+
+examples of bitwise operations:
+
+`Number & 1` - if Number is odd(devided by 2 and remainder is more then 0), then prints 1, else prints 0
+
+`Number & 0` - prints 0, same as: Number ^ Number
+
+`Number | 1` - if Number is even(devided by 2 and remainder is 0), then Prints (Number + 1), else prints just Number
+
+`Number | 0` - Prints Number
+
+`Number ^ 1` - Prints (Number - 1)
+
+`Number ^ 0` - Prints Number
