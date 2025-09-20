@@ -1,0 +1,31 @@
+Reverse Engineering:
+
+1.Ghidra 
+2.Hexedit or another one Hex editor
+3.Radare2
+
+Network & Wireless Security:
+
+1.Nmap
+2.Wireshark
+3.Aircrack-ng 
+
+Web Hacking:
+
+1.Burp Suite Community
+2.Sqlmap
+3.Metasploit Framework
+
+Cryptography & Steganography:
+
+1.Medusa
+2.Hydra
+3.John the Ripper
+4.Steghide
+
+OSINT:
+
+1.Sherlock 
+2.TheHarvester
+
+SpiderFoot
