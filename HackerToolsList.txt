@@ -27,5 +27,4 @@ OSINT:
 
 1.Sherlock 
 2.TheHarvester
-
-SpiderFoot
+3.SpiderFoot
