@@ -139,3 +139,17 @@ int main() {
 ```
 
 `std::byte` - в C++ может хранить в себе число-символные значения 0-255 в числах и символы 0-255 по ASCII, и чтобы положить значение в переменную с типом `std::byte` можно сделать: `std::byte a = {100};` или `std::byte a = std::byte(100);` а чтобы получить значение из переменной типа `std::byte` надо её преобразовать в другой тип данных используя `static_cast` или используя `(тип данных)a`.
+
+`reinterpret_cast <тип данных> (&переменная)` - это скажет компилятору чтобы он преобразовал значение по адрессу переменной в значение типа данных который указан, это говорит компилятору: "смотри на эти биты как на символы/указатель/другой тип".
+пример:
+```
+#include <iostream>
+int main() {
+    int example = 0x6E7566; // we going backwards: 66 - f, 75 - u, 6E - n. 
+    char* str = reinterpret_cast <char*> (&example); // we converting value inside adress of 'example' variable to a characters 
+    std::cout << str; // will print 'fun'
+    str = nullptr;
+    free(str);
+    return 0;
+}
+```
