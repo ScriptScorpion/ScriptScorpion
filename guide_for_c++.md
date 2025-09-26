@@ -65,6 +65,8 @@ Color c = Color::Red; //хранит Red но если сделать static_cas
 
 `template <typename T>`  - Шаблоны позволяют создавать универсальные функции и классы, работающие с разными типами данных без необходимости их переписывания для каждого конкретного типа.
 
+что значит `<` или `>` в строкавых случаях: представим что переменные `a` и `b` они строки и в C++ если сделать `if (a < b)` это будет работать - это будет проверять правда ли первая буква переменной `a` по алфавиту находиться левее первой буквы переменной `b`, для случая с `>` будет проверить находиться ли буква правее другой буквы.
+
 constexpr vs const - разницы в том что const вычисляеться на этапе runtime а constexpr вычисляеться во время компиляции, constexpr восновном нужен только для оптимизаций кода.
 Норм ответ с StackOverflow:
 "const applies for variables, and prevents them from being modified in your code. constexpr tells the compiler that this expression results in a compile time constant value, so it can be used in places like array lengths, assigning to const variables."
