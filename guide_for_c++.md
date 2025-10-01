@@ -166,3 +166,24 @@ int main() {
 отличия `std::string` от `std::string_view` в том что `std::string` динамически хранит строку, а `std::string_view` просто указывает на ячейку со строкой НО ЭТО НЕ УКАЗАТЕЛЬ(НЕЛЬЗЯ МЕНЯТЬ ЗНАЧЕНИЕ `std::string_view` ЭТО МОЖЕТ ПРИВЕСТИ К НЕИЗВЕСТНОМУ ПОВЕДЕНИЮ)
 
 чтобы скомпилировать два или больше файлов в C++, надо: в одном файле указать имя и тело функции(пример: `void function();`) и в другом файле надо дополнить её(пример: `void function() {std::cout << "Example";}`), а потом просто скомпилировать два файла с помошью `g++` указав два файла.
+
+разница между rvalue(&&) и lvalue(&): в том что rvalue требует именно значение а не переменную, а lvalue требует именно переменную а не значение. Вот пример:
+```cpp
+#include <iostream>
+void rval(int&& val) {
+    val = 50;
+    std::cout << val << '\n';
+}
+void lval(int& val) {
+    val = 60;
+    std::cout << val << '\n';
+}
+int main() {
+    int a = 30;
+    rval(30); // this will be rvalue
+    std::cout <<"a = " << a << std::endl;
+    lval(a); // this will be lvalue
+    std::cout << "a = " << a << std::endl;
+    return 0;
+}
+```
