@@ -67,6 +67,8 @@ print deep disassembly: `pA количество строк чтобы вест�
 
 list all function: `afl`
 
+list all Assembler sections: `iS` (look into 'vaddr' not 'paddr')
+
 name the function address: `afn имя hex-адрес-функции`
 
 show value in different numeral systems + ASCII: `? значение`
