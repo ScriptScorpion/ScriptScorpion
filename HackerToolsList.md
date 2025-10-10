@@ -69,6 +69,8 @@ list all function: `afl`
 
 list all Assembler sections: `iS` (look into 'vaddr' not 'paddr')
 
+list Assembler defined variables and Assembler tags: `is`
+
 name the function address: `afn имя hex-адрес-функции`
 
 show value in different numeral systems + ASCII: `? значение`
