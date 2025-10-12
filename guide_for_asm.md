@@ -70,6 +70,9 @@ LEA Загружает адрес (аналог & в C), LEA eax, [ebx+4] (eax =
 
 XCHG Меняет местами два значения, XCHG eax, ebx (теперь eax = старое ebx, и наоборот)
 
+$ - в NASM означает позицию начала текущей строки кода
+$$ - в NASM означает позицию начала текущей секции 
+
 Типы переменных(NASM):
 
 db - define byte (8 бит)
@@ -211,3 +214,4 @@ which should then be implemented by the program.
 - put syscall number in EAX (e.g. on Linux: 60 for exit, 1 for write to stdout)
 - put arguments in the registers (see above) like when calling a C function
 - execute the `syscall` instruction
+
