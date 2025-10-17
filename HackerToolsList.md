@@ -45,7 +45,7 @@
 
 ## Radare2 commands:
 
-start editing file: `r2 -nw ./файл` (n - means don't analyse, w - means load in write mode)
+start editing file: `r2 -w ./файл` (w - means load in write mode)
 
 analysing some of functions: `aa`
 
