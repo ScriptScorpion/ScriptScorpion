@@ -208,17 +208,31 @@ int main() {
 #define LENGTH(val) \
 std::cout << strlen(val);
 ```
+
 #elif - else if но для проверки значений `#define` 
+
 #else - else для препроцессора
+
 #endif - конец препроцессорных выражений
+
 #error
+
 #if - if но для проверки значений `#define`
+
 #ifdef - if но для проверки на то что макрос `#define` определён
+
 #ifndef - if но для проверки на то что макрос `#define` не определён
+
 #import
+
 #include - подключение библиотек и header файлов
+
 #line
+
 #warning
+
 #pragma
+
 #undef - убрать определённый макрос `#define`
+
 #using 
