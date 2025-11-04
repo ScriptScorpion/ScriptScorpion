@@ -1,3 +1,5 @@
+Регистор: `rax` - 16 значное число{XXXXXXXXXXXXXXXX}, `eax` - 8 последних цифр числа `rax`(обнуляет первые 8 цифр) {00000000XXXXXXXX}, `ax` - 4 последних цифры числа `rax`{000000000000XXXX}, `ah` - 2 предпоследние цифры числа `rax`{000000000000XX00}, `al` - 2 последние цифры числа `rax`{00000000000000XX}.
+
 Команды в ASM:
 
 NOP Ничего не делает 
@@ -146,13 +148,12 @@ https://en.wikipedia.org/wiki/Bitwise_operations_in_C
 | B (base, addressing)    | `RBX`  | `EBX`  | `BX`   | `BL`  |
 | C (counter, iterations) | `RCX`  | `ECX`  | `CX`   | `CL`  |
 | D (data)                | `RDX`  | `EDX`  | `DX`   | `DL`  |
-|                         | `RDI`  | `EDI`  | `DI`   | `DIL` |
-|                         | `RSI`  | `ESI`  | `SI`   | `SIL` |
+| Destination index       | `RDI`  | `EDI`  | `DI`   | `DIL` |
+| Source index            | `RSI`  | `ESI`  | `SI`   | `SIL` |
 | Numbered (n=8..15)      | `Rn`   | `RnD`  | `RnW`  | `RnB` |
 | Stack pointer           | `RSP`  | `ESP`  | `SP`   | `SPL` |
 | Frame pointer           | `RBP`  | `EBP`  | `BP`   | `BPL` |
-
-As well as XMM0 .. XMM15 for 128 bit floating point numbers.
+| Extra registers         |`R8-R15`|`R8D-R15D`|`R8W-R15W`|`R8B-R15B`|
 
 
 ## Calling C
