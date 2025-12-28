@@ -6,6 +6,8 @@
 
 3.Radare2
 
+4.Ltrace
+
 # Network & Wireless Security:
 
 1.Nmap
