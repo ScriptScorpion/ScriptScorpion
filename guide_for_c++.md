@@ -1,10 +1,15 @@
 C++ учебный материал:
+
 https://www.learncpp.com/
+
 https://cppreference.com/
+
 https://isocpp.org/
 
 C++ практика:
+
 https://www.freecodecamp.org/news/learn-programming-in-cpp/
+
 https://leetcode.com/
 
 Полезные советы:
