@@ -44,6 +44,7 @@
 
 3.SpiderFoot
 
+4.[OSINT FRAMEWORK](https://osintframework.com/)
 
 # RE3 configuration info:
 
