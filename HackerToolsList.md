@@ -94,3 +94,7 @@ create `~/.radare2rc` file, and add this lines in file you created:
 `e anal.vars=false`
 
 `e bin.cache=true`
+
+## All IP country ranges:
+
+https://suip.biz/?act=all-country-ip&continent=EU
