@@ -113,8 +113,8 @@ header файлы в C++ нужны для того чтобы писать фу
 
 
 
-condition part в C++(for(initialization_part; condition_part; do_with_initialized_variable_part)) работает также как и в if ну типо можно сделать && и || и это будет работать
-<br>
+condition part в C++(`for(initialization_part; condition_part; do_with_initialized_variable_part)`) работает также как и в if ну типо можно сделать со знаками '&&' и '||' и это будет работать
+
 код чтобы определить версию твоего компилятора g++/gcc:
 ```cpp
 #include <iostream>
