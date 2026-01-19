@@ -38,7 +38,7 @@
 
 3.John the Ripper
 
-4.Steghide
+4.Hashcat
 
 # OSINT:
 
