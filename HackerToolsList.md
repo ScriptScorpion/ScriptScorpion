@@ -8,9 +8,11 @@
 
 4.Ltrace
 
-5.Binwalk
+5.Strace
 
-6.[Dogbolt](https://dogbolt.org/)
+6.Binwalk
+
+7.[Dogbolt](https://dogbolt.org/)
 
 # Network & Wireless Security:
 
