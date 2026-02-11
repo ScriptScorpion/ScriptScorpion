@@ -10,9 +10,7 @@
 
 5.Strace
 
-6.Binwalk
-
-7.[Dogbolt](https://dogbolt.org/)
+6.[Dogbolt](https://dogbolt.org/)
 
 # Network & Wireless Security:
 
@@ -47,6 +45,8 @@
 3.John the Ripper
 
 4.Hashcat
+
+5.Binwalk
 
 # OSINT:
 
