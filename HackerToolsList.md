@@ -24,6 +24,10 @@
 
 4.Ufw (Uncomplicated FireWall)
 
+5.Iptables
+
+6.Hping3 + Ping
+
 # Web Hacking:
 
 1.Burp Suite Community
@@ -31,6 +35,8 @@
 2.Sqlmap
 
 3.Metasploit Framework
+
+4.Curl + Wget
 
 # Cryptography & Steganography:
 
