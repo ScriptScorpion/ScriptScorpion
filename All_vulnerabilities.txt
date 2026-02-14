@@ -1,0 +1,94 @@
+Web vulnerabilities:
+Abuse of Functionality
+Binary Planting
+Blind SQL Injection
+Blind XPath Injection
+Brute Force Attack
+CORS OriginHeaderScrutiny
+CORS RequestPreflightScrutiny
+CSV Injection
+Cache Poisoning
+Cash Overflow 
+Clickjacking 
+Code Injection 
+Command Injection
+Comment Injection Attack 
+Content Spoofing
+Credential stuffing
+Cross-User Defacement
+Cross Site Scripting (XSS)
+Cross Frame Scripting
+Cross Site History Manipulation (XSHM)
+Cross Site Tracing
+Cryptanalysis
+Custom Special Character Injection
+Denial of Service
+Direct Dynamic Code Evaluation 
+Embedding Null Code by Nsrav
+Execution After Redirect (EAR)
+Forced browsing
+Form action hijacking
+Format string attack
+Full Path Disclosure
+Function Injection
+HTTP/2 Reset Attack
+HTTP Response Splitting
+Incorrect Authorization
+LDAP Injection
+Log Injection
+Local File Inclusion (LFI)
+Man-in-the-browser attack
+Manipulator-in-the-Middle attack
+Mobile code invoking untrusted mobile code
+Mobile code non-final public field
+Mobile code object hijack
+Parameter Delimiter
+Password Spraying Attack
+Path Traversal
+Qrljacking
+RSQL Injection
+Reflected DOM Injection
+Remote File Inclusion (RFI)
+Regular expression Denial of Service
+Repudiation Attack
+Remote Code Execution (RCE)
+Resource Injection
+Reverse Tabnabbing
+SQL Injection
+Server-Side Includes (SSI) Injection
+Server Side Request Forgery (SSRF)
+Session Prediction
+Session fixation by mwood
+Session hijacking attack
+Setting Manipulation
+Special Element Injection
+Traffic flood
+Unicode Encoding
+Web Parameter Tampering
+XPATH Injection
+XSRF
+XSS
+Cross Site Request Forgery (CSRF)
+Insecure Direct Object Reference (IDOR)
+HITL Dialog Forging
+Open Redirect
+
+
+Software vulnerabilities:
+Buffer Overflow Attack
+Buffer Overflow via Environment Variables
+Divide By Zero
+Double Free
+Exposure of file descriptor to unintended control sphere
+Heap-based Buffer Overflow
+Improper Input Validation
+Improper NULL Termination
+Integer Overflow/Underflow
+Missing release of memory after effective lifetime
+NULL Pointer Dereference
+Out-of-Bounds Read
+Out-of-Bounds Write
+Race Condition
+Signed to unsigned conversion error
+Use After Free
+Use of uninitialized variable
