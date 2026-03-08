@@ -52,11 +52,9 @@
 
 1.Sherlock 
 
-2.TheHarvester
+2.SpiderFoot
 
-3.SpiderFoot
-
-4.[OSINT FRAMEWORK](https://osintframework.com/)
+3.[OSINT FRAMEWORK](https://osintframework.com/)
 
 # RE3 configuration info:
 
