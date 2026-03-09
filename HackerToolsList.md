@@ -50,11 +50,13 @@
 
 # OSINT:
 
-1.Sherlock 
+1.Sherlock
 
-2.SpiderFoot
+2.Exiftool
 
-3.[OSINT FRAMEWORK](https://osintframework.com/)
+3.SpiderFoot
+
+4.[OSINT FRAMEWORK](https://osintframework.com/)
 
 # RE3 configuration info:
 
