@@ -17,3 +17,5 @@
 \
 \
 BTC: bc1qkftxplhalzleyfwc8m3v3asu5n03cgnrfr5jup
+XMR: 48jgq4kBwJRgF1M1nYVUR1NMJAW8MQLXM2pBUDsa5RvC75kWM6xAmj3dmrvGdpDH8Q3MKYJzK73Y888ptDG2StCs1rMhYjU
+
