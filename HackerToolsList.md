@@ -56,9 +56,11 @@
 
 3.SpiderFoot
 
-4.[OSINT FRAMEWORK](https://osintframework.com/)
+4.[GOOGLE-ADVANCED-SEARCH](https://www.google.com/advanced_search)
 
-5.[OSINT-UI](https://osint-ui.com/app)
+5.[OSINT FRAMEWORK](https://osintframework.com/)
+
+6.[OSINT-UI](https://osint-ui.com/app)
 
 # RE3 configuration info:
 
