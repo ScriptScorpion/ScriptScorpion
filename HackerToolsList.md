@@ -62,7 +62,7 @@
 
 6.[OSINT-UI](https://osint-ui.com/app)
 
-# RE3 configuration info:
+# Radare2 configuration info:
 
 ## Radare2 commands:
 
