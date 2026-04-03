@@ -62,6 +62,12 @@
 
 6.[OSINT-UI](https://osint-ui.com/app)
 
+# Social Engineering:
+
+1. Social Engineering Toolkit
+
+2. [Fake Info](https://www.fakeinfo.net/)
+
 # Radare2 configuration info:
 
 ## Radare2 commands:
