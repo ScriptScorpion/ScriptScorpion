@@ -1,5 +1,7 @@
 ༼ つ ◕_◕ ༽つ![Image](C++_Logo.png)
 
+![Top Langs](https://github-readme-stats-three-green-63.vercel.app/api/top-langs/?username=ScriptScorpion&layout=compact&hide_border=true&theme=tokyonight) 
+
 ## Best programming languages
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B)
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&color=gray)
