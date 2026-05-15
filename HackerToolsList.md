@@ -70,9 +70,9 @@
 
 
 # Practice:
-1. [OWASP Juice Shop] (https://github.com/juice-shop/juice-shop)
-2. [OverTheWire] (https://overthewire.org/wargames/)
-3. [Damn Vulnerable Web Application] (https://github.com/digininja/DVWA) 
+1. [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
+2. [OverTheWire](https://overthewire.org/wargames/)
+3. [Damn Vulnerable Web Application](https://github.com/digininja/DVWA) 
 
 # Radare2 configuration info:
 
