@@ -40,7 +40,7 @@
 
 1.Medusa
 
-2.Hydra
+2.Hydra (not useful on HTTP-HTTPS protocols)
 
 3.John the Ripper
 
