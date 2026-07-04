@@ -68,6 +68,18 @@
 
 2. [Fake Info](https://www.fakeinfo.net/)
 
+# Vulnerabilities search tools:
+
+1. [Exploit-DB](https://www.exploit-db.com/)
+   
+2. [CVEs](https://www.cve.org/SiteSearch/)
+
+3. [NVD CVEs](https://nvd.nist.gov/vuln/search/)
+
+4. [Vulners](https://vulners.com/search/) 
+
+5. [CWEs](https://cwe.mitre.org/find/index.html/)
+
 
 # Practice:
 1. [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
