@@ -14,11 +14,10 @@
 ![Image](GNU_Compiler_Collection_logo.png)
 ## Best compiler for Assembly language
 ![Image](Netwide_Assembler.png)
-\
-\
-\
-\
-BTC: bc1qkftxplhalzleyfwc8m3v3asu5n03cgnrfr5jup
 
-XMR: 48jgq4kBwJRgF1M1nYVUR1NMJAW8MQLXM2pBUDsa5RvC75kWM6xAmj3dmrvGdpDH8Q3MKYJzK73Y888ptDG2StCs1rMhYjU
+
+## Support
+BTC wallet: bc1qkftxplhalzleyfwc8m3v3asu5n03cgnrfr5jup
+
+XMR wallet: 48jgq4kBwJRgF1M1nYVUR1NMJAW8MQLXM2pBUDsa5RvC75kWM6xAmj3dmrvGdpDH8Q3MKYJzK73Y888ptDG2StCs1rMhYjU
 
