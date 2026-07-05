@@ -15,3 +15,9 @@ JavaScript package info:
 https://www.npmjs.com/
 
 npm view PACKAGE_NAME
+
+PHP guides:
+
+https://www.php.net/
+
+https://www.w3schools.com/php/
