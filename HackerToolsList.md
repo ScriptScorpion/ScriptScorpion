@@ -6,11 +6,13 @@
 
 3.Radare2
 
-4.Ltrace
+4.Procyon
 
-5.Strace
+5.Ltrace
 
-6.[Dogbolt](https://dogbolt.org/)
+6.Strace
+
+7.[Dogbolt](https://dogbolt.org/)
 
 # Network & Wireless Security:
 
