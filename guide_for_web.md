@@ -4,6 +4,8 @@ https://developer.mozilla.org/ru/docs/Web/HTML/Reference
 
 https://www.w3schools.com/html/
 
+https://web.dev
+
 JavaScript guides: 
 
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference
