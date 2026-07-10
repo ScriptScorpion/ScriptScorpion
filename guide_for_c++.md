@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Bitwise_operations_in_C
 
 https://cppreference.com/
 
+https://cplusplus.com/reference/
+
 https://isocpp.org/
 
 C++ практика:
