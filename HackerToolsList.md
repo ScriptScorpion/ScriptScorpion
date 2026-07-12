@@ -755,10 +755,11 @@ r2 -d rarun2 program=/bin/ls stdin=$(python exploit.py) : runs /bin/ls with the 
 
 create `~/.radare2rc` file, and add this lines in file you created:
 
-`e anal.vars=false`
-
-`e bin.cache=true`
-
+```
+e anal.vars=false
+e bin.cache=true
+e scr.hist.save=false
+```
 ## All IP country ranges:
 
 https://suip.biz/?act=all-country-ip&continent=EU
