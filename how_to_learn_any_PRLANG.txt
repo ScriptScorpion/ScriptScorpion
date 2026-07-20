@@ -1,0 +1,15 @@
+How to find information about Programming Language:
+1. Take a look at minimal example that will work on your machine, if it does work, then understand what every line of code means, very very accurate.
+2. If there is documentation available for this Programming language, download it, and learn ALL basic operations, for more advanced operations refer to documentation if you encounter need in advanced operations.
+3. If there is no documentation for this Programming language, try finding projects that use that programming language, 40% of the time, code in this projects are well explained.
+4. If there is no documentation and projectes created for this Programming language, you can ask AI to teach you this programming language (ONLY TEACH, NOT WRITE CODE FOR YOU).
+5. If you dont have access to AI or documentation or projects, you can take a look at source code of this Programming language, try find in which files operations that you need are located and used, logically understand what operations do.
+6. Search for information wherever you can find it, and remember that CIA(Central Intelligence Agency) are ready to do whatever it takes to obtain information.
+7. ALWAYS test if iformation that is given to you is correct.
+
+How to learn Programming Language:
+1. Turn off all distraction (music, peoples, etc...), best code is written without any distraction (if you are not in the good mood for the coding, you are allowed to turn on music).
+2. Gradually reduce how much time you are learning, and gradually increase how much time you practise coding.
+3. Code anything that comes to your mind, no matter how hard it is, if you do it for a long time, you will succeed, no matter what project it is.
+4. By coding more projects and reading more documentations, you will learn and understand any programming language.
+5. Programming is about patience, if something doesn't work or you cannot come up with good idea to solve problem, try thinking about this on the next day (if you will think about problem every day, you come up with solution eventually). you cannot learn programming in 1 day, so dont rush with things.
