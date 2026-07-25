@@ -1,0 +1,15 @@
+Transistor - Device that used to amplify or switch electrical signals. 1 Leg(Collector), 2 Leg(Base), 3 Leg(Emitter).
+NPN Transistor(output in Emitter) - outputs current voltage of the Collector to the Emitter if positive voltage is applied to Base.
+PNP Transistor(output in Collector) - outputs current voltage of the Emitter to the Collector if negative voltage is applied to Base.
+
+Resistor - Device that limits electrical energy.
+Capacitor - Device that stores and releases electrical energy.
+Register - Device that is group of the memory cells(Flip-flops) to store and output electrical signals.
+Microchip(chip, integrated circuit) - is a set of electronic circuits on a small flat piece of silicon, created using various electronic components. On the chip, transistors act as miniature electrical switches that can turn a current on or off. The pattern of tiny switches is created on the silicon wafer by adding and removing materials to form a multilayered lattice structure of interconnected shapes.
+
+sources:
+https://en.wikipedia.org/wiki/Capacitor
+https://en.wikipedia.org/wiki/Transistor
+https://freecircuitsim.com/simulator/
+https://www.youtube.com/watch?v=AcxDiesy-nI
+https://en.wikipedia.org/wiki/Resistor
