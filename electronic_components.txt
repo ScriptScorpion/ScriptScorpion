@@ -10,6 +10,6 @@ Microchip(chip, integrated circuit) - is a set of electronic circuits on a small
 sources:
 https://en.wikipedia.org/wiki/Capacitor
 https://en.wikipedia.org/wiki/Transistor
-https://freecircuitsim.com/simulator/
-https://www.youtube.com/watch?v=AcxDiesy-nI
+https://electronicslesson.com/difference-between-npn-and-pnp-transistor/
+https://en.wikipedia.org/wiki/Hardware_register
 https://en.wikipedia.org/wiki/Resistor
