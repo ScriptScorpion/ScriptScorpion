@@ -119,49 +119,51 @@ header файлы в C++ нужны для того чтобы писать фу
 
 condition part в C++(`for(initialization_part; condition_part; do_with_initialized_variable_part)`) работает также как и в if ну типо можно сделать со знаками '&&' и '||' и это будет работать
 
-код чтобы определить версию твоего компилятора g++/gcc:
+код чтобы определить стандарт который стоит по умолчанию у твоего компилятора g++/gcc:
 ```cpp
 #include <iostream>
 int main() {
-    long cpp_version = __cplusplus;
-
-    if (cpp_version == 199711L) {
-        std::cout << "C++98/03" << std::endl;
-    } else if (cpp_version == 201103L) {
-        std::cout << "C++11" << std::endl;
-    } else if (cpp_version == 201402L) {
-        std::cout << "C++14" << std::endl;
-    } else if (cpp_version == 201703L) {
-        std::cout << "C++17" << std::endl;
-    } else if (cpp_version == 202002L) {
-        std::cout << "C++20" << std::endl;
-    } else if (cpp_version > 202002L) {
-        std::cout << "C++23 or later (value: " << cpp_version << ")" << std::endl;
-    } else {
-        std::cout << "Unknown C++ standard (value: " << cpp_version << ")" << std::endl;
-    }
+    #if defined(__cplusplus)
+        long cpp_version = __cplusplus;
+        if (cpp_version == 199711L) {
+            std::cout << "C++98" << std::endl;
+        } else if (cpp_version == 201103L) {
+            std::cout << "C++11" << std::endl;
+        } else if (cpp_version == 201402L) {
+            std::cout << "C++14" << std::endl;
+        } else if (cpp_version == 201703L) {
+            std::cout << "C++17" << std::endl;
+        } else if (cpp_version == 202002L) {
+            std::cout << "C++20" << std::endl;
+        } else if (cpp_version == 202302L) {
+            std::cout << "C++23" << std::endl;
+        } else if (cpp_version == 202603L) {
+            std::cout << "C++26" << std::endl;
+        } else {
+            std::cout << "Unknown C++ standard" << std::endl;
+        }
+    #endif
 }
 ```
 ```c
 #include <stdio.h>
 int main() {
-    #if defined(STDC_VERSION)
-     long version = STDC_VERSION;
-     if (version == 0L) {   printf("C89/C90  (ANSI C)");
-     } else if (version == 199409L) {
-         printf("C94/C95 (Amendment 1)");
-     } else if (version == 199901L) {
-         printf("C99");
-     } else if (version == 201112L) {
-         printf("C11");
-     } else if (version == 201710L) {
-         printf("C17");
-     } else if (version == 202311L) {
-         printf("C23");
-     } else {
-         printf("Unknown standard");
-     }
- #endif
+    #if defined(__STDC_VERSION__)
+        long version = __STDC_VERSION__;
+        if (version == 199409L) {
+            printf("C89/C90");
+        } else if (version == 199901L) {
+            printf("C99");
+        } else if (version == 201112L) {
+            printf("C11");
+        } else if (version == 201710L) {
+            printf("C17/C18");
+        } else if (version == 202311L) {
+            printf("C23");
+        } else {
+            printf("Unknown C standard");
+        }
+    #endif
 }
 ```
 
