@@ -6,6 +6,7 @@ How to find information about Programming Language:
 5. If you dont have access to AI or documentation or projects, you can take a look at source code of this Programming language, try find in which files operations that you need are located and used, logically understand what operations do.
 6. Search for information wherever you can find it, and remember that CIA(Central Intelligence Agency) are ready to do whatever it takes to obtain information.
 7. ALWAYS test if iformation that is given to you is correct.
+8. Think yourself what is bad to use and what is not, don't trust what others say.
 
 How to learn Programming Language:
 1. Turn off all distraction (music, peoples, etc...), best code is written without any distraction (if you are not in the good mood for the coding, you are allowed to turn on music).
@@ -13,3 +14,4 @@ How to learn Programming Language:
 3. Code anything that comes to your mind, no matter how hard it is, if you do it for a long time, you will succeed, no matter what project it is.
 4. By coding more projects and reading more documentations, you will learn and understand any programming language.
 5. Programming is about patience, if something doesn't work or you cannot come up with good idea to solve problem, try thinking about this on the next day (if you will think about problem every day, you come up with solution eventually). you cannot learn programming in 1 day, so dont rush with things.
+6. If you are reading long code i recommend treating loops, comparisons as modules (for example: module for negative numbers, module for positive numbers), for me it helps to keep logic of code in my brain.
