@@ -1,0 +1,5 @@
+If you want to run MSDOS, there can be issues with sound if you have soundcard newer then MSDOS version.
+If you want to run Windows 98 and older versions, then you need to have RAM less then 512 MB.
+Pick PC that will support all of the listed external devices(this type of PC exists): Floppy disks, DVD disks, USB drives.
+Good PC look like symtrical square, with black or white main colors (https://www.harlander.com/ibm-netvista-m42-8303-piv-2-0-ghz-2-gb-40-gb.html https://www.ebay.com/itm/126906356910)
+Best PC Brands: IBM, HP, Compaq.
